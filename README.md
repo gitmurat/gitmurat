@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitmurat
+- 👋 Hi, I’m Murat Kurt
 - 👀 I’m interested in C# , .NET , windows and mobile app development
 - 🌱 I’m currently learning C# at a beginner level
 - 💞️ I’m looking to collaborate on anything really
